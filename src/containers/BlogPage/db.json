@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Mama, take this badge off of me",
+      "description": "I can't use it anymore",
+      "date": 1645381274
+    },
+    {
+      "id": 2,
+      "title": "Сходить",
+      "description": "В магазин",
+      "date": 1647999999
+    },
+    {
+      "id": 3,
+      "title": "C 1 апреля ",
+      "description": "Make 7-th ",
+      "date": 1648799999
+    },
+    {
+      "title": "Встреча ",
+      "description": "Витя Костин, Петр Михайлов",
+      "date": "1648318874",
+      "id": 4
+    },
+    {
+      "title": "ДР!",
+      "description": "Дима Молодцов",
+      "date": "1647022874",
+      "id": 5
+    }
+  ]
+}

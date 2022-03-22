@@ -1,0 +1,10 @@
+.profilepage {
+    position: relative;
+}
+
+.preloader {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+
